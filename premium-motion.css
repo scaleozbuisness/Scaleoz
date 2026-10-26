@@ -14,6 +14,7 @@ Add this inside the `<head>` of your existing `index.html`:
 Add this immediately before the closing `</body>` tag:
 
 ```html
+<script src="script.js"></script>
 <script src="scaleoz-animations.js"></script>
 ```
 
